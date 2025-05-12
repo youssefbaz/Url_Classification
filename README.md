@@ -20,9 +20,7 @@ Ensure you have the following installed:
 
 Install the required Python packages:
 
-```bash
-pip install pandas numpy scikit-learn
-Running the Notebook
+📂 Running the Notebook
 Clone the repository:
 
 bash
@@ -60,10 +58,22 @@ Contributions are welcome! To contribute:
 
 Fork the repository
 
-Create a new branch (git checkout -b feature-name)
+Create a new branch:
 
-Commit your changes (git commit -m 'Add feature')
+bash
+Copier
+Modifier
+git checkout -b feature-name
+Commit your changes:
 
-Push to the branch (git push origin feature-name)
+bash
+Copier
+Modifier
+git commit -m "Add feature"
+Push to your branch:
 
+bash
+Copier
+Modifier
+git push origin feature-name
 Create a pull request
